@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Excuse Me Sirs, But This Is My First Ever Blog Post"
+description: ""
+category: ""
+tags: []
+---
+{% include JB/setup %}
+Well, it seems like I've succeeded. Or maybe failed. I was never a person to blog, and I've never had the slightest urge to blog. Well, change is always a good thing, we learn through change. Now is the time for me to learn about Jekyll and very simple blogging.
+
+Before I start pouring my soul into this thing, an introduction is perhaps in order. My name is Faisal Alqadi and, right now, I am a student in the University of Waterloo. I am a computer engineering student, and will graduate in 6 months time (April 2014 can't come fast enough). Interests include physical activities, because I'm lazy and I'll be damned if that means I have to get fat. I also like coding and learning new technologies: I just started learning Android development and Ruby-on-Rails and it's oodles of fun. More on that in some future post. But who cares about my interests (other than me of course).
+
+The reason I've come around to blogging is because I want to keep tabs of the projects I've participated in so far. Granted, I probably should have set this up at the beginning of my university career and blogged whenever I was actually in the project, but whatever. I'll have to rely on my trusty memory and what I've saved of the projects. 
+
+On top of the school-related projects, I'll also touch upon the projects I had to work on while on co-op (internships).
+
+Without further adeu, let's get started.
