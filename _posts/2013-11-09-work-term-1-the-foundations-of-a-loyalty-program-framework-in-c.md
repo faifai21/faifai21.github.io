@@ -2,7 +2,7 @@
 layout: post
 title: "Work Term 1: The Foundations of a Loyalty Program Framework in C(++)"
 description: ""
-category: "projects, work"
+category: "projects"
 tags: [work, coop, intern]
 ---
 {% include JB/setup %}
