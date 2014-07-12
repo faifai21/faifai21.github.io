@@ -5,7 +5,7 @@ tagline: I shall blog as I see fit
 ---
 {% include JB/setup %}
  
-## Most Recent Post
+# Most Recent Post
 
 <div class="blog-index">  
   {% assign page = post %}
