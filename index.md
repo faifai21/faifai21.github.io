@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Hello Fai!
 tagline: I shall blog as I see fit
 ---
 {% include JB/setup %}
