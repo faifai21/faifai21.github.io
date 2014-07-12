@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello Fai!
-tagline: I shall blog as I see fit
+tagline: <- That kind of looks like Hello Fail. I shall blog as I see fit
 ---
 {% include JB/setup %}
  
@@ -14,7 +14,7 @@ tagline: I shall blog as I see fit
   {% include post_detail.html %}
 </div>
 
-## All Posts
+# All Posts
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -22,7 +22,7 @@ tagline: I shall blog as I see fit
   {% endfor %}
 </ul>
 
-## Footnote
+# Footnote
 
 I started this in November of 2013, made two posts and then kind of forgot about it. I really hope I don't make another two posts and forget about it.
 
