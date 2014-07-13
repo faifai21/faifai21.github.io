@@ -36,4 +36,4 @@ I spent a bunch of yesterday getting my environment set up. I downloaded Android
 
 I fiddled around with gradle build file and got the project to depend on two external libraries: OkHttp for some awesome networking (I usually use RoboSpice, but I decided to branch out) and AutoTextView, for a text view that automatically resizes the text based on the amount of text.
 
-Hopefully, I'll do something for the next blog post.
+Hopefully, I'll actually do something for the next blog post.
